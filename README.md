@@ -35,4 +35,6 @@ This program is divided into 4 parts which are as follows:
 
 
 ## Author
-Juan Bohorquez
+Juan Bohorquez![Screenshot (1)](https://user-images.githubusercontent.com/101238359/179846435-bf854258-a465-4194-9184-d1a6c303b6e2.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/101238359/179846453-98925da2-c20e-421d-85eb-3db14ddc9bc5.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/101238359/179846467-e2dd3762-3e3a-4907-9395-8600ed343bbe.png)
